@@ -23,6 +23,12 @@
     },
     "author": "jagenjo",
     "license": "MIT",
+    "files": [
+        "build",
+        "src",
+        "css/litegraph.css",
+        "src/litegraph.d.ts"
+    ],
     "bugs": {
         "url": "https://github.com/jagenjo/litegraph.js/issues"
     },
